@@ -17,7 +17,7 @@
 
 這兩個是我在大一期間**投入最多時間與邏輯設計思維**的實作：
 
-### 📁 [JSP 表單上傳系統](reports/程式設計（二)_貪食蛇遊戲.pdf)
+### 📁 [JSP 表單上傳系統](reports/程式設計（二）_JSP表單上傳系統.pdf)
 > 使用 Java Servlet 與 MySQL 建構的醫療資料上傳平台，支援表單資料處理、資料庫儲存與成功頁面回饋。
 
 - 技術：Java、JSP、Servlet、MySQL
@@ -26,7 +26,7 @@
 
 ---
 
-### 📁 [查詢課程評價系統](./projects/classin-crawler/)
+### 📁 [查詢課程評價系統](reports/資安導論_查詢課程評價系統.pdf)
 > 整合 Python + API 技術自動化查詢 Classin 上的課程推薦討論。
 
 - 技術：Python、Selenium、OpenAPI、Dify、網頁資料解析
