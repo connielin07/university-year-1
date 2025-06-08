@@ -17,7 +17,7 @@
 
 這兩個是我在大一期間**投入最多時間與邏輯設計思維**的實作：
 
-### 📁 [JSP 表單上傳系統](./projects/jsp-upload/)
+### 📁 [JSP 表單上傳系統](reports/程式設計（二)_貪食蛇遊戲.pdf)
 > 使用 Java Servlet 與 MySQL 建構的醫療資料上傳平台，支援表單資料處理、資料庫儲存與成功頁面回饋。
 
 - 技術：Java、JSP、Servlet、MySQL
