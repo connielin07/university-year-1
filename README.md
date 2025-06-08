@@ -42,7 +42,7 @@
 | [攝氏華氏溫度換算](reports/程式設計(一)_攝氏華氏溫度轉換.pdf) | 輸入攝氏/華氏溫度並轉換單位 | Java |
 | [終極密碼戰](reports/程式設計(一)_終極密碼戰.pdf) | 猜數字小遊戲，在指定範圍內推理出正確答案 | Java |
 | [出埃及記小遊戲](reports/程式設計(一)_出埃及記.pdf) | 以逃亡為主題的文字冒險遊戲 | Java |
-| [貪食蛇遊戲](reports/程式設計（二）_貪食蛇遊戲.pdf) | 經典遊戲玩法，加入創新道具提升挑戰性 | Java |
+| [貪食蛇遊戲](reports/程式設計(二)_貪食蛇遊戲.pdf) | 經典遊戲玩法，加入創新道具提升挑戰性 | Java |
 | [LeetCode 自主學習心得](reports/計概_LeetCode自主學習.pdf) | 從 6 題 LeetCode 中反思邏輯與效能優化策略 | Java、演算法、ChatGPT 輔助 |
 | [社交工程探索](reports/資安導論_社交工程探討.pdf) | 利用 NotebookLM 探討社交工程攻擊模型 | AI 工具應用 |
 | [Google / Facebook 詐騙案研究](reports/資安導論_Google%20與%20Facebook%20詐騙案分析.pdf) | 世界最大科技詐騙案剖析，探討釣魚與社交操作技術 | 資安知識整合 |
