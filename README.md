@@ -27,7 +27,7 @@
 ---
 
 ### 📁 [查詢課程評價系統](./projects/classin-crawler/)
-> 整合 Python + API 技術自動化查詢 Classin 與 Dcard 上的課程推薦討論。
+> 整合 Python + API 技術自動化查詢 Classin 上的課程推薦討論。
 
 - 技術：Python、Selenium、OpenAPI、Dify、網頁資料解析
 - 功能：輸入關鍵字 → 從多平台爬取 → 整合回傳推薦評價
