@@ -30,7 +30,7 @@ A medical data upload platform built with Java Servlet and MySQL, supporting for
 
 ## Other Projects and Practical Experiences
 
-### Exodus Mini Game
+### [Exodus Mini Game](https://github.com/connielin07/exodus-mini-game)
 
 A text-based adventure game with an escape-themed storyline.
 
@@ -38,7 +38,7 @@ A text-based adventure game with an escape-themed storyline.
 - [Demo Video](https://drive.google.com/file/d/1drxB35PkMlYuSfbs8US9H_u33XCrh-f6/view?usp=sharing)
 - [Presentation](reports/程式設計(一)_出埃及記.pdf)
 
-### Snake Game
+### [Snake Game](https://github.com/connielin07/snake-eating)
 
 A classic Snake game with innovative items added to increase the challenge.
 
